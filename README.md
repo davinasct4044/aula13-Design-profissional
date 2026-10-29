@@ -1,4 +1,4 @@
-Texto modificado diretamente na branch principal main.
+Texto modificado dentro da branch minha-modificacao.
 ____11________________1___________________________
 ___¶¶¶¶_____________¶¶¶¶__________________________
 ___¶¶_¶¶¶1_______1¶¶¶1¶¶__________________________
